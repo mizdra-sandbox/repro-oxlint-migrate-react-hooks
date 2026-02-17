@@ -1,0 +1,16 @@
+{
+  "name": "repro-oxlint-migrate-react-hooks",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mizdra <pp.mizdra@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@oxlint/migrate": "^1.48.0"
+  }
+}
